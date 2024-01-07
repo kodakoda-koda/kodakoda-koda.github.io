@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: kodakoda-koda # the main title
 
-tagline: Sohei Kodama's portfolio # it will display as the sub-title
+tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,12 +34,10 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sohei Kodama
-  email: gundam634rx78.2@gmail.com # change to your email address
+  name: your_full_name
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://qiita.com/kodakoda-koda
-    - https://www.instagram.com/kdm_rep
     - https://twitter.com/kodakoda-koda # change to your twitter homepage
     - https://github.com/kodakoda_koda_ # change to your github homepage
     # Uncomment below to add more social links
@@ -75,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/identicon.png
+avatar: assets/img/icon/identicon.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
