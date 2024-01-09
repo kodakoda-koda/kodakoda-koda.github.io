@@ -93,8 +93,8 @@ comments:
   giscus:
     repo: kodakoda-koda/kodakoda-koda.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLBr7LQ
-    category: Q&A
-    category_id: DIC_kwDOLBr7Lc4CcSzl
+    category: Announcements
+    category_id: DIC_kwDOLBr7Lc4CcSzj
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
