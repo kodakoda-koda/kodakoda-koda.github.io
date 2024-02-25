@@ -16,7 +16,7 @@ published: true
 # Pytorchのgatherの挙動
 ## サンプルコード
 まずサンプルコードとその出力結果を確認する
-```python:sample.py
+```python
 import torch
 input = torch.tensor([
     [1, 2, 3],
@@ -34,7 +34,7 @@ print(result1)
 print(result2)
 ```
 これに対する出力結果が
-```python:output
+```python
 tensor([[4, 8, 3],
         [1, 5, 9],
         [7, 2, 6]])
