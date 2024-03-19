@@ -47,7 +47,7 @@ bn run -f reformer.bib
 <img width="75%" src="/assets/img/Bib2NotionDB/by.png" alt="image_error">
 のようにそれぞれのカテゴリやステータスごとに確認することができる.
 
-## Bibtexファイルを出力
+## Bibtexファイルを出力（改良点）
 Notion上で
 <img width="75%" src="/assets/img/Bib2NotionDB/cite.png" alt="image_error">
 のように文献リストを追加し，

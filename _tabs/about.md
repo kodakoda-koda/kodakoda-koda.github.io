@@ -29,3 +29,4 @@ order: 4
 ## 研究発表
 
 - 2023.06: 児玉壮平, 松崎拓也. 周波数領域でのAttentionを用いたTransformerに基づく時系列予測モデルの改良. 第37回人工知能学会全国大会. [[link](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1T5GS201/_article/-char/ja/)]
+- 2024.03: 児玉壮平, 星野智紀，石塚湖太. プロンプトチューニングとkNN-LMを組み合わせたリスティング広告のタイトル自動生成. 言語処理学会第30回年次大会. [[link](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A1-2.pdf)]
