@@ -4,8 +4,7 @@ categories:
 date: 2024-01-29 00:00:00 +0900
 math: true
 tags:
-  - Bibtex
-  - テンプレート
+  - ツール
   - Latex
   - Notion
 title: BibtexからNotionに追加できる文献管理ツールを作った（改良した）
