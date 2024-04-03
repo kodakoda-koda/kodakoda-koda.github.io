@@ -5,7 +5,6 @@ date: 2024-02-23 00:00:00 +0900
 math: true
 tags:
   - Python
-  - Pytorch
 title: Pytorchのgatherの挙動について
 parse_block_html: true
 published: true

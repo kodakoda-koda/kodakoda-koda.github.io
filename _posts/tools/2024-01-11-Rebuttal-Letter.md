@@ -5,7 +5,6 @@ date: 2024-01-11 00:00:00 +0900
 math: true
 tags:
   - Latex
-  - テンプレート
 title: Rebuttal Letterの日本語説明付きLatexテンプレートを作成した
 parse_block_html: true
 published: true
