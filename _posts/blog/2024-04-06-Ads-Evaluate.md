@@ -4,8 +4,8 @@ categories:
 date: 2024-04-06 00:00:00 +0900
 math: true
 tags:
-  - 論文読み
-  - 広告
+  - Paper
+  - Ads
 title: 検索連動型広告における広告文自動生成の評価指標
 parse_block_html: true
 published: false
