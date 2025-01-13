@@ -1,6 +1,6 @@
 ---
 categories:
-  - ツール
+  - BLOG
 date: 2024-07-18 00:00:00 +0900
 math: true
 tags:

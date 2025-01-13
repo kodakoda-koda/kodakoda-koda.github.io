@@ -1,11 +1,11 @@
 ---
 categories:
-  - ツール
+  - MEMO
 date: 2024-02-23 00:00:00 +0900
 math: true
 tags:
   - Python
-title: Pytorchのgatherの挙動について
+title: Pytorchのgatherの挙動
 parse_block_html: true
 published: true
 ---

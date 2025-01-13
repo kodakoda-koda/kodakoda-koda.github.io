@@ -1,6 +1,6 @@
 ---
 categories:
-  - 雑談
+  - BLOG
 date: 2024-05-11 00:00:00 +0900
 math: true
 tags:
