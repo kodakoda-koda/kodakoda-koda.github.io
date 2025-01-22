@@ -1,14 +1,14 @@
 ---
 categories:
-  - 雑談
+  - BLOG
 date: 2024-05-11 00:00:00 +0900
 math: true
 tags:
   - Python
-  - 半教師あり学習
+  - DeepLearning
 title: PNU Learningの検証と考察
 parse_block_html: true
-published: true
+published: false
 ---
 
 半教師あり学習手法を調べた際に，「PNU Learning」たるものを知ったので調べてみた

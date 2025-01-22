@@ -1,12 +1,12 @@
 ---
 categories:
-  - ツール
+  - BLOG
 date: 2024-07-18 00:00:00 +0900
 math: true
 tags:
-  - ツール
+  - Tools
   - JavaScript
-  - git
+  - Git
 title: gitのコミットメッセージを生成AIに作成させる
 parse_block_html: true
 published: true

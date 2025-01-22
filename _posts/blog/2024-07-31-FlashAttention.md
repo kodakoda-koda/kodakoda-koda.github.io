@@ -1,11 +1,11 @@
 ---
 categories:
-  - 論文
+  - BLOG
 date: 2024-07-30 00:00:00 +0900
 math: true
 tags:
-  - 論文読み
-  - 自然言語処理
+  - Paper
+  - NLP
 title: FlashAttentionってなんだっけ
 parse_block_html: true
 published: true
