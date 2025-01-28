@@ -1,7 +1,7 @@
 ---
 categories:
   - BLOG
-date: 2025-01-14 00:00:00 +0900
+date: 2025-01-20 00:00:00 +0900
 math: true
 tags:
   - Paper
